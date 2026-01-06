@@ -4,7 +4,7 @@
 I am a professional focused on the intersection of **Healthcare** and **Artificial Intelligence**. I recently completed the **Google Generative AI for Healthcare** program, where I explored how LLMs can be safely and effectively integrated into clinical workflows.
 
 ###  Latest Achievement
-- **Credential:** [Google Cloud Generative AI for Healthcare Badge] https://www.skills.google/public_profiles/0bd1056d-ae21-4fac-84b4-5af81b0c9f32
+- **Credential:** Google Cloud Generative AI for Healthcare Badge: https://www.skills.google/public_profiles/0bd1056d-ae21-4fac-84b4-5af81b0c9f32
 - **Focus:** Understanding clinical documentation automation, ethical AI guardrails, and Google Vertex AI.
 
 ###  What I'm working on
