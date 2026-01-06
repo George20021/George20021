@@ -12,7 +12,7 @@ I am a professional focused on the intersection of **Healthcare** and **Artifici
 -  Learning about HIPAA-compliant AI implementations.
 -  Seeking ways to reduce clinician burnout through automation.
 
-### 🛠 Skills
+###  Skills
 - **AI/ML:** Generative AI, Prompt Engineering, Vertex AI
 - **Healthcare:** Clinical Workflows, Health IT, Data Privacy
 - **Tools:** GitHub, Google Cloud Skills Boost
